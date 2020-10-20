@@ -16,4 +16,4 @@
  ![NKUST](甘特圖.png "甘特圖")
 ---
 ### PERT/CPM
- ![NKUST](perp.png "PERP")
+ ![NKUST](pert.png "PERT")
