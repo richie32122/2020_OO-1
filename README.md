@@ -15,3 +15,5 @@
 ---
 ### PERT/CPM
  ![NKUST](pert.png "PERT")
+
+### 關鍵路徑: 1 -> 5 -> 6 -> 7
