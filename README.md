@@ -18,13 +18,13 @@
  
 ### 關鍵路徑: 1 -> 5 -> 6 -> 7
  
- ### FDD()
+ ### FDD(銀行管理)
  ![NKUST](功能分解圖.png "FDD")
  
- ### FDD()
+ ### FDD(電傷系統)
  ![NKUST](功能分解圖2.png "FDD2")
  
- ### UseCase()
+ ### UseCase(銀行管理)
  ![NKUST](UseCase.png "UseCase")
  
  ### 需求分析
@@ -39,7 +39,7 @@
 6.任何對帳戶的異動，都必須記錄時間。<br>
 
 
-### UseCase()
+### UseCase(電商系統)
  ![NKUST](UseCase2.png "UseCase")
  
  ### 需求分析
