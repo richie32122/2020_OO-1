@@ -219,7 +219,7 @@
 ### 資料流向圖(DFD)
 
 #### 銀行管理系統
- ![NKUST](bank_dfd.g "資料流向圖")
+ ![NKUST](bank_dfd.PNG "資料流向圖")
  
 #### 電子商務系統
  ![NKUST](ecom_dfd.jpg "資料流向圖")
