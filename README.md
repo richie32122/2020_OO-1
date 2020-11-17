@@ -255,7 +255,7 @@
 ---
 
 ### UML類別圖
- ![NKUST](class.PNG "class")
+ ![NKUST](class.png "class")
 
 ### 活動圖
 #### 新進員工註冊
